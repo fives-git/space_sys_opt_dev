@@ -1,2 +1,2 @@
-# space_sys_opt_dev
+# Space Systems and Optimization Development
 This is the development of spacecraft systems and optimization software from scratch. 
